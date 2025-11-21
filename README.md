@@ -1,7 +1,7 @@
 # GitHub Repositories Used in This Study
 
 This repository provides a consolidated list of the GitHub projects referenced in the paper.  
-To avoid listing multiple GitHub sources separately in the bibliography, this page aggregates all related repositories used for experiments, benchmarking, and verification in the study.  
+To avoid listing multiple GitHub sources separately in the bibliography, this page aggregates all related repositories used for experiments in the study.  
 Researchers can access all original sources directly through the links below.
 
 ---
